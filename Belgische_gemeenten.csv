@@ -1,0 +1,585 @@
+Gemeente;Stad/Gem.;Provincie;Oppervlakte (km²);Aantal inwoners (01/01/2023);Deelgemeenten;Path
+Aalst;stad;Oost-Vlaanderen;78,12;90.068;Aalst, Gijzegem, Hofstade, Baardegem, Herdersem, Meldert, Moorsel, Erembodegem, Nieuwerkerken;path47
+Aalter;gem.;Oost-Vlaanderen;119,19;29.529;Aalter, Bellem, Knesselare, Lotenhulle, Poeke, Ursel;path3
+Aarschot;stad;Vlaams-Brabant;62,52;30.854;Aarschot, Gelrode, Langdorp, Rillaar;path250
+Aartselaar;gem.;Antwerpen;10,93;14.752;Aartselaar;path177
+Affligem;gem.;Vlaams-Brabant;17,7;13.556;Essene, Hekelgem, Teralfene;path266
+Alken;gem.;Limburg;28,14;11.839;Alken;path231
+Alveringem;gem.;West-Vlaanderen;80,01;5.054;Alveringem, Hoogstade, Oeren, Sint-Rijkers, Beveren, Gijverinkhove, Izenberge, Leisele, Stavele;path79
+Antwerpen;stad;Antwerpen;204,51;538.910;Antwerpen, Berendrecht-Zandvliet-Lillo, Deurne, Borgerhout, Merksem, Ekeren, Berchem, Hoboken, Wilrijk;path127
+Anzegem;gem.;West-Vlaanderen;41,79;12.222;Anzegem, Gijzelbrechtegem, Ingooigem, Vichte, Kaster, Tiegem;path121
+Ardooie;gem.;West-Vlaanderen;34,58;9.338;Ardooie, Koolskamp;path101
+Arendonk;gem.;Antwerpen;55,38;13.344;Arendonk;path138
+As;gem.;Limburg;22,07;8.214;As, Niel-bij-As;path215
+Asse;gem.;Vlaams-Brabant;49,64;35.191;Asse, Bekkerzeel, Kobbegem, Mollem, Relegem, Zellik;path267
+Assenede;gem.;Oost-Vlaanderen;87,22;14.636;Assenede, Boekhoute, Bassevelde, Oosteeklo;path5
+Avelgem;gem.;West-Vlaanderen;21,75;10.319;Avelgem, Kerkhove, Waarmaarde, Outrijve, Bossuit;path124
+Baarle-Hertog;gem.;Antwerpen;7,48;3.012;Baarle-Hertog;path199
+Balen;gem.;Antwerpen;72,88;23.308;Balen, Olmen;path163
+Beernem;gem.;West-Vlaanderen;71,68;16.131;Beernem, Oedelem, Sint-Joris;path86
+Beerse;gem.;Antwerpen;37,48;18.416;Beerse, Vlimmeren;path144
+Beersel;gem.;Vlaams-Brabant;30,01;26.474;Beersel, Lot, Alsemberg, Dworp, Huizingen;path306
+Begijnendijk;gem.;Vlaams-Brabant;17,62;10.487;Begijnendijk, Betekom;path249
+Bekkevoort;gem.;Vlaams-Brabant;37,17;6.672;Bekkevoort, Assent, Molenbeek-Wersbeek;path265
+Beringen;stad;Limburg;78,3;47.895;Beringen, Beverlo, Koersel, Paal;path212
+Berlaar;gem.;Antwerpen;24,57;11.949;Berlaar, Gestel;path191
+Berlare;gem.;Oost-Vlaanderen;37,82;15.446;Berlare, Overmere, Uitbergen;path28
+Bertem;gem.;Vlaams-Brabant;29,75;10.276;Bertem, Korbeek-Dijle, Leefdaal;path274
+Bever;gem.[3];Vlaams-Brabant;19,78;2.265;Bever;path300
+Beveren;gem.;Oost-Vlaanderen;150,18;50.300;Beveren, Haasdonk, Melsele, Vrasene, Kallo, Doel, Kieldrecht, Verrebroek;path14
+Bierbeek;gem.;Vlaams-Brabant;39,73;10.469;Bierbeek, Korbeek-Lo, Lovenjoel, Opvelp;path290
+Bilzen;stad;Limburg;75,9;32.644;Bilzen, Beverst, Eigenbilzen, Grote-Spouwen, Hees, Kleine-Spouwen, Mopertingen, Munsterbilzen, Rijkhoven, Rosmeer, Waltwilder, Martenslinde, Hoelbeek;path228
+Blankenberge;stad;West-Vlaanderen;17,41;20.511;Blankenberge, Uitkerke;path69
+Bocholt;gem.;Limburg;59,34;13.743;Bocholt, Kaulille, Reppel;path203
+Boechout;gem.;Antwerpen;20,66;13.806;Boechout, Vremde;path173
+Bonheiden;gem.;Antwerpen;29,27;15.458;Bonheiden, Rijmenam;path193
+Boom;gem.;Antwerpen;7,37;19.062;Boom;path167
+Boortmeerbeek;gem.;Vlaams-Brabant;18,64;13.263;Boortmeerbeek, Hever;path245
+Borgloon;stad;Limburg;51,12;11.455;Borgloon, Bommershoven, Broekom, Gors-Opleeuw, Gotem, Groot-Loon, Hendrieken, Hoepertingen, Jesseren, Kerniel, Kuttekoven, Rijkel, Voort;path236
+Bornem;gem.;Antwerpen;45,76;21.982;Bornem, Weert, Mariekerke, Hingene;path181
+Borsbeek;gem.;Antwerpen;3,92;11.309;Borsbeek;path174
+Boutersem;gem.;Vlaams-Brabant;30,75;8.527;Boutersem, Kerkom, Neervelp, Roosbeek, Vertrijk, Willebringen;path279
+Brakel;gem.;Oost-Vlaanderen;56,46;15.007;Elst, Everbeek, Michelbeke, Nederbrakel, Opbrakel, Zegelsem, Parike;path51
+Brasschaat;gem.;Antwerpen;38,49;38.575;Brasschaat;path141
+Brecht;gem.;Antwerpen;90,84;30.387;Brecht, Sint-Job-in-'t-Goor, Sint-Lenaarts;path142
+Bredene;gem.;West-Vlaanderen;13,08;18.081;Bredene;path67
+Bree;stad;Limburg;64,96;16.695;Beek, Bree, Gerdingen, Opitter, Tongerlo;path204
+Brugge;stad;West-Vlaanderen;138,4;119.541;Brugge, Koolkerke, Sint-Andries, Sint-Michiels, Assebroek, Sint-Kruis, Dudzele, Lissewege;path8
+Buggenhout;gem.;Oost-Vlaanderen;25,25;14.887;Buggenhout, Opdorp;path41
+Damme;stad;West-Vlaanderen;89,52;11.146;Damme, Hoeke, Lapscheure, Moerkerke, Oostkerke, Sijsele;path77
+De Haan;gem.;West-Vlaanderen;42,17;12.782;Klemskerke, Wenduine, Vlissegem;path68
+De Panne;gem.;West-Vlaanderen;23,9;11.089;De Panne, Adinkerke;path62
+De Pinte;gem.;Oost-Vlaanderen;17,98;11.116;De Pinte, Zevergem;path23
+Deerlijk;gem.;West-Vlaanderen;16,82;12.561;Deerlijk;path120
+Deinze;stad;Oost-Vlaanderen;127,53;44.930;Deinze, Astene, Bachte-Maria-Leerne, Gottem, Grammene, Hansbeke, Landegem, Meigem, Merendree, Nevele, Petegem-aan-de-Leie, Poesele, Sint-Martens-Leerne, Vinkt, Vosselare, Wontergem, Zeveren;path21
+Denderleeuw;gem.;Oost-Vlaanderen;13,77;20.930;Denderleeuw, Iddergem, Welle;path56
+Dendermonde;stad;Oost-Vlaanderen;55,67;46.916;Dendermonde, Appels, Baasrode, Grembergen, Mespelare, Oudegem, Schoonaarde, Sint-Gillis-bij-Dendermonde;path39
+Dentergem;gem.;West-Vlaanderen;25,94;8.632;Dentergem, Markegem, Oeselgem, Wakken;path111
+Dessel;gem.;Antwerpen;27,03;9.805;Dessel;path149
+Destelbergen;gem.;Oost-Vlaanderen;26,56;19.097;Destelbergen, Heusden;path26
+Diepenbeek;gem.;Limburg;41,19;19.423;Diepenbeek;path227
+Diest;stad;Vlaams-Brabant;58,2;24.677;Diest, Deurne, Kaggevinne, Molenstede, Schaffen, Webbekom;path252
+Diksmuide;stad;West-Vlaanderen;149,4;17.174;Diksmuide, Beerst, Esen, Kaaskerke, Keiem, Lampernisse, Leke, Nieuwkapelle, Oostkerke, Oudekapelle, Pervijze, Sint-Jacobs-Kapelle, Stuivekenskerke, Vladslo, Woumen;path72
+Dilbeek;gem.;Vlaams-Brabant;41,18;44.650;Dilbeek, Sint-Martens-Bodegem, Sint-Ulriks-Kapelle, Itterbeek, Groot-Bijgaarden, Schepdaal;path296
+Dilsen-Stokkem;stad;Limburg;65,61;21.305;Dilsen, Elen, Lanklaar, Rotem, Stokkem;path210
+Drogenbos;gem.[3];Vlaams-Brabant;2,49;5.851;Drogenbos;path313
+Duffel;gem.;Antwerpen;22,71;17.982;Duffel;path187
+Edegem;gem.;Antwerpen;8,65;22.761;Edegem;path178
+Eeklo;stad;Oost-Vlaanderen;30,05;22.140;Eeklo;path1
+Erpe-Mere;gem.;Oost-Vlaanderen;34,03;20.843;Aaigem, Bambrugge, Burst, Erondegem, Erpe, Mere, Ottergem, Vlekkem;path54
+Essen;gem.;Antwerpen;47,48;19.629;Essen;path132
+Evergem;gem.;Oost-Vlaanderen;75,04;36.557;Evergem, Ertvelde, Sleidinge, Kluizen;path7
+Galmaarden;gem.;Vlaams-Brabant;34,93;8.912;Galmaarden, Tollembeek, Vollezele;path301
+Gavere;gem.;Oost-Vlaanderen;31,34;13.217;Gavere, Asper, Baaigem, Dikkelvenne, Semmerzake, Vurste;path34
+Geel;stad;Antwerpen;109,85;41.828;Geel;path161
+Geetbets;gem.;Vlaams-Brabant;35,17;6.263;Geetbets, Grazen, Rummen;path286
+Genk;stad;Limburg;87,85;67.573;Genk;path214
+Gent;stad;Oost-Vlaanderen;156,18;268.122;Gent, Mariakerke, Drongen, Wondelgem, Sint-Amandsberg, Oostakker, Desteldonk, Mendonk, Sint-Kruis-Winkel, Gentbrugge, Ledeberg, Afsnee, Sint-Denijs-Westrem, Zwijnaarde;path15
+Geraardsbergen;stad;Oost-Vlaanderen;79,71;34.724;Geraardsbergen, Goeferdinge, Moerbeke, Nederboelare, Onkerzele, Ophasselt, Overboelare, Viane, Zarlardinge, Grimminge, Idegem, Nieuwenhove, Schendelbeke, Smeerebbe-Vloerzegem, Waarbeke, Zandbergen;path60
+Gingelom;gem.;Limburg;56,49;8.670;Gingelom, Boekhout, Jeuk, Kortijs, Montenaken, Niel-bij-Sint-Truiden, Vorsen, Borlo, Buvingen, Mielen-boven-Aalst, Muizen;path239
+Gistel;stad;West-Vlaanderen;42,25;12.265;Gistel, Moere, Snaaskerke, Zevekote;path73
+Glabbeek;gem.;Vlaams-Brabant;26,78;5.426;Bunsbeek, Glabbeek-Zuurbemde, Kapellen, Attenrode;path281
+Gooik;gem.;Vlaams-Brabant;39,7;9.428;Gooik, Kester, Leerbeek, Oetingen;path302
+Grimbergen;gem.;Vlaams-Brabant;38,59;39.368;Grimbergen, Humbeek, Beigem, Strombeek-Bever;path256
+Grobbendonk;gem.;Antwerpen;28,36;11.519;Grobbendonk, Bouwel;path179
+Haacht;gem.;Vlaams-Brabant;30,57;15.425;Haacht, Tildonk, Wespelaar;path246
+Haaltert;gem.;Oost-Vlaanderen;30,3;19.281;Haaltert, Denderhoutem, Heldergem, Kerksken;path55
+Halen;stad;Limburg;36,29;9.557;Halen, Loksbergen, Zelem;path223
+Halle;stad;Vlaams-Brabant;44,4;42.047;Halle, Buizingen, Lembeek;path305
+Ham;gem.;Limburg;32,69;11.337;Kwaadmechelen, Oostham;path218
+Hamme;gem.;Oost-Vlaanderen;40,21;25.368;Hamme, Moerzeke;path31
+Hamont-Achel;stad;Limburg;43,66;14.458;Achel, Hamont;path202
+Harelbeke;stad;West-Vlaanderen;29,14;29.574;Harelbeke, Bavikhove, Hulste;path116
+Hasselt;stad;Limburg;102,24;80.351;Hasselt, Sint-Lambrechts-Herk, Wimmertingen, Kermt, Spalbeek, Kuringen, Stokrooie, Stevoort;path226
+Hechtel-Eksel;gem.;Limburg;76,7;12.914;Hechtel, Eksel;path206
+Heers;gem.;Limburg;53,07;7.554;Heers, Batsheers, Gutschoven, Heks, Horpmaal, Klein-Gelmen, Mechelen-Bovelingen, Mettekoven, Opheers, Rukkelingen-Loon, Vechmaal, Veulen;path238
+Heist-op-den-Berg;gem.;Antwerpen;86,46;44.226;Heist-op-den-Berg, Hallaar, Booischot, Itegem, Wiekevorst, Schriek;path190
+Hemiksem;gem.;Antwerpen;5,44;12.105;Hemiksem;path164
+Herent;gem.;Vlaams-Brabant;32,73;22.723;Herent, Veltem-Beisem, Winksele;path292
+Herentals;stad;Antwerpen;48,56;28.575;Herentals, Morkhoven, Noorderwijk;path159
+Herenthout;gem.;Antwerpen;23,55;9.417;Herenthout;path180
+Herk-de-Stad;stad;Limburg;42,83;12.817;Herk-de-Stad, Berbroek, Donk, Schulen;path225
+Herne;gem.;Vlaams-Brabant;44,63;6.763;Herne, Herfelingen, Sint-Pieters-Kapelle;path303
+Herselt;gem.;Antwerpen;52,32;14.805;Herselt, Ramsel;path196
+Herstappe;gem.[3];Limburg;1,35;77;Herstappe;path241
+Herzele;gem.;Oost-Vlaanderen;47,4;18.715;Herzele, Hillegem, Sint-Antelinks, Sint-Lievens-Esse, Steenhuize-Wijnhuize, Woubrechtegem, Ressegem, Borsbeke;path53
+Heusden-Zolder;gem.;Limburg;53,23;34.623;Heusden, Zolder;path219
+Heuvelland;gem.;West-Vlaanderen;94,24;7.958;Nieuwkerke, Dranouter, Wulvergem, Wijtschate, Westouter, Kemmel, Loker;path97
+Hoegaarden;gem.;Vlaams-Brabant;33,93;6.797;Hoegaarden, Meldert, Outgaarden;path283
+Hoeilaart;gem.;Vlaams-Brabant;20,43;11.537;Hoeilaart;path310
+Hoeselt;gem.;Limburg;30,02;9.921;Hoeselt, Romershoven, Sint-Huibrechts-Hern, Werm, Schalkhoven;path233
+Holsbeek;gem.;Vlaams-Brabant;38,5;10.158;Holsbeek, Kortrijk-Dutsel, Sint-Pieters-Rode, Nieuwrode;path263
+Hooglede;gem.;West-Vlaanderen;37,84;10.142;Hooglede, Gits;path93
+Hoogstraten;stad;Antwerpen;105,32;22.245;Hoogstraten, Meer, Minderhout, Wortel, Meerle;path134
+Horebeke;gem.;Oost-Vlaanderen;11,2;2.036;Sint-Kornelis-Horebeke, Sint-Maria-Horebeke;path50
+Houthalen-Helchteren;gem.;Limburg;78,27;30.960;Helchteren, Houthalen;path213
+Houthulst;gem.;West-Vlaanderen;55,89;10.332;Houthulst, Klerken, Merkem;path81
+Hove;gem.;Antwerpen;5,99;8.444;Hove;path172
+Huldenberg;gem.;Vlaams-Brabant;39,64;10.080;Huldenberg, Loonbeek, Neerijse, Ottenburg, Sint-Agatha-Rode;path275
+Hulshout;gem.;Antwerpen;17,35;10.564;Hulshout, Houtvenne, Westmeerbeek;path194
+Ichtegem;gem.;West-Vlaanderen;45,33;14.355;Ichtegem, Bekegem, Eernegem;path83
+Ieper;stad;West-Vlaanderen;130,61;35.387;Ieper, Brielen, Dikkebus, Sint-Jan, Hollebeke, Voormezele, Zillebeke, Boezinge, Zuidschote, Elverdinge, Vlamertinge;path90
+Ingelmunster;gem.;West-Vlaanderen;16,16;11.454;Ingelmunster;path107
+Izegem;stad;West-Vlaanderen;25,48;29.013;Izegem, Emelgem, Kachtem;path106
+Jabbeke;gem.;West-Vlaanderen;53,76;14.539;Jabbeke, Snellegem, Stalhille, Varsenare, Zerkegem;path75
+Kalmthout;gem.;Antwerpen;59,45;19.422;Kalmthout;path131
+Kampenhout;gem.;Vlaams-Brabant;33,49;12.445;Kampenhout, Berg, Buken, Nederokkerzeel;path259
+Kapellen;gem.;Antwerpen;37,11;27.743;Kapellen;path130
+Kapelle-op-den-Bos;gem.;Vlaams-Brabant;15,25;9.659;Kapelle-op-den-Bos, Nieuwenrode, Ramsdonk;path243
+Kaprijke;gem.;Oost-Vlaanderen;33,71;6.587;Kaprijke, Lembeke;path4
+Kasterlee;gem.;Antwerpen;71,52;19.478;Kasterlee, Lichtaart, Tielen;path147
+Keerbergen;gem.;Vlaams-Brabant;18,39;13.196;Keerbergen;path247
+Kinrooi;gem.;Limburg;54,76;12.330;Kinrooi, Kessenich, Molenbeersel, Ophoven;path205
+Kluisbergen;gem.;Oost-Vlaanderen;30,38;6.874;Berchem, Kwaremont, Ruien, Zulzeke;path57
+Knokke-Heist;gem.;West-Vlaanderen;56,44;32.645;Knokke, Westkapelle, Heist, Ramskapelle;path70
+Koekelare;gem.;West-Vlaanderen;39,19;8.870;Koekelare, Bovekerke, Zande;path78
+Koksijde;gem.;West-Vlaanderen;43,96;21.664;Koksijde, Oostduinkerke, Wulpen;path63
+Kontich;gem.;Antwerpen;23,67;21.624;Kontich, Waarloos;path170
+Kortemark;gem.;West-Vlaanderen;55;12.873;Kortemark, Handzame, Werken, Zarren;path82
+Kortenaken;gem.;Vlaams-Brabant;49,1;7.970;Kortenaken, Ransberg, Hoeleden, Kersbeek-Miskom, Waanrode;path315
+Kortenberg;gem.;Vlaams-Brabant;34,52;20.920;Kortenberg, Erps-Kwerps, Everberg, Meerbeek;path293
+Kortessem;gem.;Limburg;33,9;8.726;Kortessem, Vliermaalroot, Wintershoven, Guigoven, Vliermaal;path232
+Kortrijk;stad;West-Vlaanderen;80,02;78.944;Kortrijk, Bissegem, Heule, Bellegem, Kooigem, Marke, Rollegem, Aalbeke;path118
+Kraainem;gem.[3];Vlaams-Brabant;5,8;14.051;Kraainem;path271
+Kruibeke;gem.;Oost-Vlaanderen;33,42;17.056;Kruibeke, Bazel, Rupelmonde;path20
+Kruisem;gem.;Oost-Vlaanderen;70,7;15.952;Huise, Kruishoutem, Nokere, Ouwegem, Wannegem-Lede, Zingem;path42
+Kuurne;gem.;West-Vlaanderen;10,01;14.033;Kuurne;path119
+Laakdal;gem.;Antwerpen;42,48;16.707;Eindhout, Vorst, Varendonk, Veerle;path197
+Laarne;gem.;Oost-Vlaanderen;32,07;12.528;Laarne, Kalken;path27
+Lanaken;gem.;Limburg;59;26.270;Lanaken, Gellik, Neerharen, Veldwezelt, Rekem;path222
+Landen;stad;Vlaams-Brabant;54,05;16.284;Landen, Eliksem, Ezemaal, Laar, Neerwinden, Overwinden, Rumsdorp, Wange, Waasmont, Walsbets, Walshoutem, Wezeren, Attenhoven, Neerlanden;path287
+Langemark-Poelkapelle;gem.;West-Vlaanderen;52,53;8.015;Bikschote, Langemark, Poelkapelle;path91
+Lebbeke;gem.;Oost-Vlaanderen;26,92;19.925;Lebbeke, Denderbelle, Wieze;path40
+Lede;gem.;Oost-Vlaanderen;29,69;19.160;Lede, Impe, Oordegem, Smetlede, Wanzele;path46
+Ledegem;gem.;West-Vlaanderen;24,76;9.770;Ledegem, Rollegem-Kapelle, Sint-Eloois-Winkel;path105
+Lendelede;gem.;West-Vlaanderen;13,15;5.863;Lendelede;path115
+Lennik;gem.;Vlaams-Brabant;30,8;9.431;Gaasbeek, Sint-Kwintens-Lennik, Sint-Martens-Lennik;path298
+Leopoldsburg;gem.;Limburg;22,49;16.407;Leopoldsburg, Heppen;path211
+Leuven;stad;Vlaams-Brabant;56,63;103.009;Leuven, Heverlee, Kessel-Lo, Wilsele, Wijgmaal;path261
+Lichtervelde;gem.;West-Vlaanderen;25,93;9.166;Lichtervelde;path94
+Liedekerke;gem.;Vlaams-Brabant;10,08;13.877;Liedekerke;path294
+Lier;stad;Antwerpen;49,7;37.909;Lier, Koningshooikt;path188
+Lierde;gem.;Oost-Vlaanderen;26,13;6.805;Deftinge, Sint-Maria-Lierde, Hemelveerdegem, Sint-Martens-Lierde;path52
+Lievegem;gem.;Oost-Vlaanderen;80,17;26.979;Zomergem, Oostwinkel, Ronsele, Lovendegem, Vinderhoute, Waarschoot, Beke;path6
+Lille;gem.;Antwerpen;59,4;16.871;Lille, Gierle, Poederlee, Wechelderzande;path146
+Linkebeek;gem.[3];Vlaams-Brabant;4,15;4.640;Linkebeek;path314
+Lint;gem.;Antwerpen;5,57;8.548;Lint;path171
+Linter;gem.;Vlaams-Brabant;36,37;7.317;Drieslinter, Melkwezer, Neerhespen, Neerlinter, Orsmaal-Gussenhoven, Overhespen, Wommersom;path284
+Lochristi;gem.;Oost-Vlaanderen;60,34;23.073;Lochristi, Beervelde, Zaffelare, Zeveneken;path16
+Lokeren;stad;Oost-Vlaanderen;67,5;43.064;Lokeren, Daknam, Eksaarde;path17
+Lommel;stad;Limburg;102,37;34.826;Lommel;path200
+Londerzeel;gem.;Vlaams-Brabant;36,29;19.288;Londerzeel, Malderen, Steenhuffel;path242
+Lo-Reninge;stad;West-Vlaanderen;62,94;3.237;Lo, Noordschote, Pollinkhove, Reninge;path80
+Lubbeek;gem.;Vlaams-Brabant;46,13;14.911;Lubbeek, Linden, Binkom, Pellenberg;path278
+Lummen;gem.;Limburg;53,38;15.366;Lummen, Linkhout, Meldert;path224
+Maarkedal;gem.;Oost-Vlaanderen;46,63;6.340;Etikhove, Maarke-Kerkem, Nukerke, Schorisse;path58
+Maaseik;stad;Limburg;76,94;25.737;Maaseik, Neeroeteren, Opoeteren;path209
+Maasmechelen;gem.;Limburg;76,28;39.914;Eisden, Leut, Mechelen-aan-de-Maas, Meeswijk, Opgrimbie, Vucht, Boorsem, Uikhoven;path216
+Machelen;gem.;Vlaams-Brabant;11,59;16.486;Machelen, Diegem;path269
+Maldegem;gem.;Oost-Vlaanderen;94,64;24.615;Maldegem, Adegem, Middelburg;path38
+Malle;gem.;Antwerpen;51,99;16.007;Oostmalle, Westmalle;path153
+Mechelen;stad;Antwerpen;65,19;88.614;Mechelen, Walem, Heffen, Hombeek, Leest, Muizen;path185
+Meerhout;gem.;Antwerpen;36,29;10.348;Meerhout;path162
+Meise;gem.;Vlaams-Brabant;34,82;20.239;Meise, Wolvertem;path255
+Melle;gem.;Oost-Vlaanderen;15,21;11.960;Melle, Gontrode;path25
+Menen;stad;West-Vlaanderen;33,07;34.322;Menen, Lauwe, Rekkem;path113
+Merchtem;gem.;Vlaams-Brabant;36,72;17.740;Merchtem, Brussegem, Hamme;path254
+Merelbeke;gem.;Oost-Vlaanderen;36,65;25.200;Merelbeke, Bottelare, Lemberge, Melsen, Munte, Schelderode;path24
+Merksplas;gem.;Antwerpen;44,56;8.799;Merksplas;path135
+Mesen;stad[3];West-Vlaanderen;3,58;1.074;Mesen;path104
+Meulebeke;gem.;West-Vlaanderen;29,35;11.100;Meulebeke;path108
+Middelkerke;gem.;West-Vlaanderen;75,65;19.755;Middelkerke, Wilskerke, Leffinge, Mannekensvere, Schore, Sint-Pieters-Kapelle, Slijpe, Lombardsijde, Westende;path65
+Moerbeke;gem.;Oost-Vlaanderen;37,8;6.724;Moerbeke;path11
+Mol;gem.;Antwerpen;114,26;38.159;Mol;path139
+Moorslede;gem.;West-Vlaanderen;35,34;11.451;Moorslede, Dadizele;path99
+Mortsel;stad;Antwerpen;7,78;26.391;Mortsel;path175
+Nazareth;gem.;Oost-Vlaanderen;35,19;12.214;Nazareth, Eke;path33
+Niel;gem.;Antwerpen;5,27;10.799;Niel;path166
+Nieuwerkerken;gem.;Limburg;22,46;7.190;Nieuwerkerken, Binderveld, Kozen, Wijer;path230
+Nieuwpoort;stad;West-Vlaanderen;31;11.493;Nieuwpoort, Ramskapelle, Sint-Joris;path64
+Nijlen;gem.;Antwerpen;39,09;23.409;Nijlen, Bevel, Kessel;path189
+Ninove;stad;Oost-Vlaanderen;72,57;40.093;Ninove, Appelterre-Eichem, Denderwindeke, Lieferinge, Nederhasselt, Okegem, Voorde, Pollare, Meerbeke, Neigem, Aspelare, Outer;path61
+Olen;gem.;Antwerpen;23,17;12.689;Olen;path160
+Oostende;stad;West-Vlaanderen;37,72;72.175;Oostende, Stene, Zandvoorde;path66
+Oosterzele;gem.;Oost-Vlaanderen;43,12;14.024;Oosterzele, Balegem, Gijzenzele, Landskouter, Moortsele, Scheldewindeke;path35
+Oostkamp;gem.;West-Vlaanderen;79,65;24.200;Oostkamp, Hertsberge, Ruddervoorde, Waardamme;path85
+Oostrozebeke;gem.;West-Vlaanderen;16,62;8.021;Oostrozebeke;path109
+Opwijk;gem.;Vlaams-Brabant;19,69;14.890;Opwijk, Mazenzele;path253
+Oudenaarde;stad;Oost-Vlaanderen;68,06;32.482;Oudenaarde, Bevere, Edelare, Eine, Ename, Heurne, Leupegem, Mater, Melden, Mullem, Nederename, Volkegem, Welden;path49
+Oudenburg;stad;West-Vlaanderen;35,38;9.911;Oudenburg, Ettelgem, Roksem, Westkerke;path74
+Oud-Heverlee;gem.;Vlaams-Brabant;31,15;11.545;Oud-Heverlee, Sint-Joris-Weert, Blanden, Haasrode, Vaalbeek;path276
+Oudsbergen;gem.;Limburg;116,24;23.791;Ellikom, Gruitrode, Meeuwen, Neerglabbeek, Opglabbeek, Wijshagen;path208
+Oud-Turnhout;gem.;Antwerpen;38,8;14.734;Oud-Turnhout;path140
+Overijse;gem.;Vlaams-Brabant;44,43;25.978;Overijse;path311
+;;;;;;
+Peer;stad;Limburg;86,95;16.534;Peer, Grote-Brogel, Kleine-Brogel, Wijchmaal;path207
+Pelt;gem.;Limburg;83,63;34.100;Neerpelt, Overpelt, Sint-Huibrechts-Lille;path201
+Pepingen;gem.;Vlaams-Brabant;36,05;4.567;Pepingen, Bogaarden, Heikruis, Elingen, Beert, Bellingen;path304
+Pittem;gem.;West-Vlaanderen;34,42;6.834;Pittem, Egem;path102
+Poperinge;stad;West-Vlaanderen;119,33;19.947;Poperinge, Reningelst, Krombeke, Proven, Roesbrugge-Haringe, Watou;path88
+Putte;gem.;Antwerpen;34,96;18.631;Putte, Beerzel;path192
+Puurs-Sint-Amands;gem.;Antwerpen;48,99;26.772;Breendonk, Liezele, Lippelo, Oppuurs, Puurs, Ruisbroek, Sint-Amands;path182
+Ranst;gem.;Antwerpen;43,58;19.609;Ranst, Broechem, Emblem, Oelegem;path156
+Ravels;gem.;Antwerpen;94,99;15.338;Ravels, Weelde, Poppel;path137
+Retie;gem.;Antwerpen;48,39;11.841;Retie;path148
+Riemst;gem.;Limburg;57,88;16.850;Riemst, Genoelselderen, Herderen, Kanne, Membruggen, Millen, Val-Meer, Vlijtingen, Vroenhoven, Zichen-Zussen-Bolder;path229
+Rijkevorsel;gem.;Antwerpen;46,79;12.531;Rijkevorsel;path143
+Roeselare;stad;West-Vlaanderen;59,79;65.468;Roeselare, Beveren, Oekene, Rumbeke;path100
+Ronse;stad[3];Oost-Vlaanderen;34,48;27.075;Ronse;path59
+Roosdaal;gem.;Vlaams-Brabant;21,69;11.866;Onze-Lieve-Vrouw-Lombeek, Pamel, Strijtem, Borchtlombeek;path297
+Rotselaar;gem.;Vlaams-Brabant;37,57;17.499;Rotselaar, Wezemaal, Werchter;path262
+Ruiselede;gem.;West-Vlaanderen;30,2;5.504;Ruiselede;path96
+Rumst;gem.;Antwerpen;19,9;15.417;Rumst, Reet, Terhagen;path168
+Schelle;gem.;Antwerpen;7,8;8.662;Schelle;path165
+Scherpenheuvel-Zichem;stad;Vlaams-Brabant;50,5;23.705;Scherpenheuvel, Averbode, Zichem, Messelbroek, Testelt;path251
+Schilde;gem.;Antwerpen;35,99;20.293;Schilde, 's-Gravenwezel;path151
+Schoten;gem.;Antwerpen;29,55;34.360;Schoten;path150
+Sint-Genesius-Rode;gem.[3];Vlaams-Brabant;22,77;18.739;Sint-Genesius-Rode;path309
+Sint-Gillis-Waas;gem.;Oost-Vlaanderen;54,98;19.932;Sint-Gillis-Waas, De Klinge, Meerdonk, Sint-Pauwels;path13
+Sint-Katelijne-Waver;gem.;Antwerpen;36,12;21.595;Sint-Katelijne-Waver, Onze-Lieve-Vrouw-Waver;path186
+Sint-Laureins;gem.;Oost-Vlaanderen;74,5;7.041;Sint-Laureins, Sint-Jan-in-Eremo, Sint-Margriete, Waterland-Oudeman, Watervliet;path2
+Sint-Lievens-Houtem;gem.;Oost-Vlaanderen;26,67;10.658;Sint-Lievens-Houtem, Letterhoutem, Bavegem, Zonnegem, Vlierzele;path45
+Sint-Martens-Latem;gem.;Oost-Vlaanderen;14,34;8.257;Sint-Martens-Latem, Deurle;path22
+Sint-Niklaas;stad;Oost-Vlaanderen;83,8;81.138;Sint-Niklaas, Nieuwkerken-Waas, Belsele, Sinaai;path18
+Sint-Pieters-Leeuw;gem.;Vlaams-Brabant;40,38;36.052;Sint-Pieters-Leeuw, Oudenaken, Sint-Laureins-Berchem, Ruisbroek, Vlezenbeek;path299
+Sint-Truiden;stad;Limburg;106,9;41.353;Sint-Truiden, Aalst, Brustem, Engelmanshoven, Gelinden, Groot-Gelmen, Halmaal, Kerkom-bij-Sint-Truiden, Ordingen, Zepperen, Duras, Gorsem, Runkelen, Wilderen, Velm;path234
+Spiere-Helkijn;gem.[3];West-Vlaanderen;10,78;2.056;Helkijn, Spiere;path123
+Stabroek;gem.;Antwerpen;21,51;18.837;Stabroek, Hoevenen;path129
+Staden;gem.;West-Vlaanderen;46,24;11.639;Staden, Oostnieuwkerke, Westrozebeke;path92
+Steenokkerzeel;gem.;Vlaams-Brabant;23,46;12.614;Steenokkerzeel, Melsbroek, Perk;path258
+Stekene;gem.;Oost-Vlaanderen;44,8;19.273;Stekene, Kemzeke;path12
+Temse;gem.;Oost-Vlaanderen;39,92;31.191;Temse, Elversele, Steendorp, Tielrode;path19
+Ternat;gem.;Vlaams-Brabant;24,48;16.488;Ternat, Sint-Katherina-Lombeek, Wambeek;path295
+Tervuren;gem.;Vlaams-Brabant;32,92;23.101;Tervuren, Duisburg, Vossem;path273
+Tessenderlo;gem.;Limburg;51,35;18.838;Tessenderlo;path217
+Tielt;stad;West-Vlaanderen;68,5;20.701;Tielt, Aarsele, Kanegem, Schuiferskapelle;path103
+Tielt-Winge;gem.;Vlaams-Brabant;44,16;11.440;Houwaart, Meensel-Kiezegem, Sint-Joris-Winge, Tielt;path264
+Tienen;stad;Vlaams-Brabant;71,77;36.282;Tienen, Bost, Goetsenhoven, Hakendover, Kumtich, Oorbeek, Oplinter, Sint-Margriete-Houtem, Vissenaken;path282
+Tongeren;stad;Limburg;87,56;31.915;Tongeren, Berg, Diets-Heur, Henis, 's Herenelderen, Koninksem, Lauw, Mal, Neerrepen, Nerem, Overrepen, Piringen, Riksingen, Rutten, Sluizen, Vreren, Widooie;path237
+Torhout;stad;West-Vlaanderen;45,23;20.782;Torhout;path87
+Tremelo;gem.;Vlaams-Brabant;21,57;15.338;Tremelo, Baal;path248
+Turnhout;stad;Antwerpen;56,06;46.923;Turnhout;path136
+Veurne;stad;West-Vlaanderen;96,34;12.419;Veurne, Avekapelle, Booitshoeke, Bulskamp, De Moeren, Eggewaartskapelle, Houtem, Steenkerke, Vinkem, Wulveringem, Zoutenaaie;path71
+Vilvoorde;stad;Vlaams-Brabant;21,48;46.993;Vilvoorde, Peutie;path257
+Vleteren;gem.;West-Vlaanderen;38,15;3.611;Oostvleteren, Westvleteren, Woesten;path89
+Voeren;gem.[3];Limburg;50,63;4.387;Moelingen, Remersdaal, 's-Gravenvoeren, Sint-Martens-Voeren, Sint-Pieters-Voeren, Teuven;path240
+Vorselaar;gem.;Antwerpen;27,62;8.044;Vorselaar;path158
+Vosselaar;gem.;Antwerpen;11,85;11.802;Vosselaar;path145
+Waasmunster;gem.;Oost-Vlaanderen;31,93;11.177;Waasmunster;path30
+Wachtebeke;gem.;Oost-Vlaanderen;34,53;7.837;Wachtebeke;path10
+Waregem;stad;West-Vlaanderen;44,34;39.488;Waregem, Beveren, Desselgem, Sint-Eloois-Vijve;path117
+Wellen;gem.;Limburg;26,72;7.473;Wellen, Berlingen, Herten, Ulbeek;path235
+Wemmel;gem.[3];Vlaams-Brabant;8,74;17.743;Wemmel;path268
+Wervik;stad;West-Vlaanderen;43,61;19.190;Wervik, Geluwe;path112
+Westerlo;gem.;Antwerpen;55,13;25.466;Westerlo, Oevel, Tongerlo, Zoerle-Parwijs;path195
+Wetteren;gem.;Oost-Vlaanderen;36,68;26.748;Wetteren, Massemen, Westrem;path36
+Wevelgem;gem.;West-Vlaanderen;38,76;31.795;Wevelgem, Gullegem, Moorsele;path114
+Wezembeek-Oppem;gem.[3];Vlaams-Brabant;6,82;14.608;Wezembeek-Oppem;path272
+Wichelen;gem.;Oost-Vlaanderen;22,87;11.960;Wichelen, Schellebelle, Serskamp;path37
+Wielsbeke;gem.;West-Vlaanderen;21,76;10.013;Wielsbeke, Ooigem, Sint-Baafs-Vijve;path110
+Wijnegem;gem.;Antwerpen;7,86;10.432;Wijnegem;path154
+Willebroek;gem.;Antwerpen;27,41;27.773;Willebroek, Blaasveld, Heindonk, Tisselt;path184
+Wingene;gem.;West-Vlaanderen;68,42;15.039;Wingene, Zwevezele;path95
+Wommelgem;gem.;Antwerpen;13,01;13.230;Wommelgem;path155
+Wortegem-Petegem;gem.;Oost-Vlaanderen;41,96;6.552;Elsegem, Moregem, Ooike, Petegem-aan-de-Schelde, Wortegem;path48
+Wuustwezel;gem.;Antwerpen;89,43;21.644;Wuustwezel, Loenhout;path133
+Zandhoven;gem.;Antwerpen;40,1;13.352;Zandhoven, Massenhoven, Pulderbos, Pulle, Viersel;path157
+Zaventem;gem.;Vlaams-Brabant;27,62;36.408;Zaventem, Nossegem, Sint-Stevens-Woluwe, Sterrebeek;path270
+Zedelgem;gem.;West-Vlaanderen;60,34;23.391;Aartrijke, Loppem, Veldegem, Zedelgem;path84
+Zele;gem.;Oost-Vlaanderen;33,06;21.374;Zele;path29
+Zelzate;gem.;Oost-Vlaanderen;13,71;13.543;Zelzate;path9
+Zemst;gem.;Vlaams-Brabant;42,85;23.357;Zemst, Eppegem, Elewijt, Hofstade, Weerde;path244
+Zoersel;gem.;Antwerpen;38,65;22.427;Zoersel, Halle, Sint-Antonius;path152
+Zonhoven;gem.;Limburg;39,34;21.653;Zonhoven;path220
+Zonnebeke;gem.;West-Vlaanderen;67,57;12.658;Zonnebeke, Beselare, Geluveld, Passendale, Zandvoorde;path98
+Zottegem;stad;Oost-Vlaanderen;56,66;27.677;Zottegem, Elene, Erwetegem, Godveerdegem, Grotenberge, Leeuwergem, Sint-Goriks-Oudenhove, Strijpen, Velzeke-Ruddershove, Oombergen, Sint-Maria-Oudenhove;path44
+Zoutleeuw;stad;Vlaams-Brabant;46,73;8.668;Zoutleeuw, Budingen, Dormaal, Halle-Booienhoven, Helen-Bos;path285
+Zuienkerke;gem.;West-Vlaanderen;48,86;2.751;Zuienkerke, Meetkerke, Houtave, Nieuwmunster;path76
+Zulte;gem.;Oost-Vlaanderen;32,52;16.000;Zulte, Olsene, Machelen;path32
+Zutendaal;gem.;Limburg;32,07;7.345;Zutendaal;path221
+Zwalm;gem.;Oost-Vlaanderen;33,82;8.320;Beerlegem, Dikkele, Hundelgem, Meilegem, Munkzwalm, Nederzwalm-Hermelgem, Paulatem, Roborst, Rozebeke, Sint-Blasius-Boekel, Sint-Denijs-Boekel, Sint-Maria-Latem;path43
+Zwevegem;gem.;West-Vlaanderen;63,24;25.558;Zwevegem, Heestert, Moen, Otegem, Sint-Denijs;path122
+Zwijndrecht;gem;Antwerpen;17,82;19.547;Zwijndrecht, Burcht;path128
+Anderlecht;gem;Brussel;17,71;121.394;;path316
+Brussel (Bruxelles);stad;Brussel;32,61;187.686;;path334
+;gem;Brussel;;;;
+Elsene (Ixelles);gem;Brussel;6,34;86.917;;path333
+Etterbeek;gem;Brussel;3,15;48.223;;path332
+Evere;gem;Brussel;5,02;43.481;;path330
+Ganshoren;gem;Brussel;2,46;25.202;;path320
+Jette;gem;Brussel;5,04;52.604;;path321
+Koekelberg;gem;Brussel;1,17;21.997;;path319
+Oudergem;gem;Brussel;9,03;34.937;;path325
+Schaarbeek;gem;Brussel;8,14;130.270;;path329
+Sint-Agatha-Berchem;gem;Brussel;2,95;25.288;;path318
+Sint-Gillis;gem;Brussel;2,52;48.498;;path331
+Sint-Jans-Molenbeek;gem;Brussel;5,89;97.102;;path317
+Sint-Joost-ten-Node;gem;Brussel;1,14;26.809;;path328
+Sint-Lambrechts-Woluwe;gem;Brussel;7,22;58.448;;path327
+Sint-Pieters-Woluwe;gem;Brussel;8,85;42.106;;path326
+Ukkel (Uccle);gem;Brussel;22,91;84.647;;path323
+Vorst (Forest);gem;Brussel;6,25;56.271;;path322
+Watermaal-Bosvoorde (Watermael-Boitsfort);gem;Brussel;12,93;25.190;;path324
+'s-Gravenbrakel (Braine-le-Comte);stad;Henegouwen;84,68;21.426;'s-Gravenbrakel, Hennuyères, Henripont, Petit-Rœulx-lez-Braine, Ronquières, Steenkerke;path312
+Aarlen (Arlon);stad;Luxemburg;118,64;29.274;Aarlen, Bonnert, Heinsch, Toernich, Guirsch, Autelbas;path578
+Aat (Ath);stad;Henegouwen;126,95;28.951;Aat, Lanquesaint, Irchonwelz, Ormeignies, Bouvignies, Ostiches, Rebaix, Maffle, Arbre, Houtaing, Ligne, Mainvault, Moulbaix, Villers-Notre-Dame, Villers-Saint-Amand, Gellingen, Isières, Meslin-l'Évêque, Gibecq;path342
+Aiseau-Presles;gem.;Henegouwen;22,19;10.805;Aiseau, Pont-de-Loup, Presles, Roselies;path356
+Amay;gem.;Luik;27,61;14.182;Amay, Ampsin, Flône, Jehay-Bodegnée, Ombret;path512
+Amel;gem.;Luik;125,15;5.492;Amel, Meyerode, Heppenbach;path540
+Andenne;stad;Namen;86,17;26.281;Andenne, Bonneville, Coutisse, Landenne, Maizeret, Namêche, Sclayn, Seilles, Thon, Vezin;path428
+Anderlues;gem.;Henegouwen;17,02;12.012;Anderlues;path368
+Anhée;gem.;Namen;65,67;7.101;Anhée, Annevoie-Rouillon, Bioul, Denée, Haut-le-Wastia, Sosoye, Warnant;path436
+Ans;gem.;Luik;23,35;28.159;Ans, Loncin, Alleur, Xhendremael;path466
+Anthisnes;gem.;Luik;37,08;4.116;Anthisnes, Villers-aux-Tours, Hody, Tavier;path520
+Antoing;stad;Henegouwen;31,13;7.817;Antoing, Maubray, Péronnes-lez-Antoing, Bruyelle, Calonne, Fontenoy;path359
+Assesse;gem.;Namen;78,16;6.917;Assesse, Maillen, Sart-Bernard, Crupet, Sorinne-la-Longue, Florée, Courrière;path432
+Attert;gem.;Luxemburg;70,94;5.411;Attert, Nobressart, Nothomb, Thiaumont, Tontelange;path575
+Aubange;gem.;Luxemburg;45,6;16.646;Aubange, Athus, Halanzy, Rachecourt;path585
+Aubel;gem.;Luik;18,83;4.229;Aubel;path472
+Awans;gem.;Luik;27,16;9.240;Awans, Fooz, Elch, Villers-l'Évêque, Hognoul;path465
+Aywaille;gem.;Luik;79,97;12.257;Aywaille, Ernonheid, Harzé, Sougné-Remouchamps;path530
+Baelen;gem;Luik;85,73;4.370;Baelen, Membach;path510
+Bastenaken (Bastogne);stad;Luxemburg;172,03;15.580;Bastenaken, Longvilly, Noville, Villers-la-Bonne-Eau, Wardin;path554
+Beaumont;stad;Henegouwen;92,97;7.052;Beaumont, Barbençon, Leugnies, Leval-Chaudeville, Renlies, Solre-Saint-Géry, Thirimont;path388
+;;;;;Strée;
+Beauraing;stad;Namen;174,55;9.069;Beauraing, Baronville, Dion, Felenne, Feschaux, Honnay, Javingue, Vonêche, Wancennes, Winenne, Wiesme, Focant, Martouzin-Neuville, Pondrôme, Froidfontaine;path448
+Belœil;gem.;Henegouwen;61,55;13.982;Belœil, Basècles, Ramegnies, Thumaide, Wadelincourt, Aubechies, Ellignies-Sainte-Anne, Quevaucamps, Grandglise, Stambruges;path361
+Bergen (Mons);stad;Henegouwen;146,56;94.964;Bergen, Ghlin, Flénu, Jemappes, Maisières, Nimy, Havré, Harmignies, Harveng, Hyon, Mesvin, Nouvelles, Ciply, Saint-Symphorien, Villers-Saint-Ghislain, Spiennes, Cuesmes, Obourg, Saint-Denis;path364
+Berloz;gem.;Luik;14,49;3.024;Berloz, Corswarem, Roost-Krenwik;path461
+Bernissart;gem.;Henegouwen;43,42;11.943;Bernissart, Blaton, Harchies, Pommerœul, Ville-Pommerœul;path374
+Bertogne;gem.;Luxemburg;91,67;3.483;Bertogne, Flamierge, Longchamps;path553
+Bertrix;gem.;Luxemburg;137,7;8.667;Bertrix, Auby-sur-Semois, Cugnon, Jehonville, Orgeo;path565
+Bevekom (Beauvechain);gem.;Waals-Brabant;38,58;7.104;Bevekom, Deurne, Hamme-Mille, Nodebeek, Sluizen;path402
+Beyne-Heusay;gem.;Luik;7,32;12.096;Beyne-Heusay, Bellaire, Queue-du-Bois;path500
+Bièvre;gem.;Namen;109,59;3.250;Bièvre, Baillamont, Bellefontaine, Cornimont, Graide, Gros-Fays, Monceau-en-Ardenne, Naomé, Oizy, Petit-Fays;path450
+Binche;stad;Henegouwen;60,66;33.445;Binche, Bray, Waudrez, Buvrinnes, Épinois, Leval-Trahegnies, Péronnes-lez-Binche, Ressaix;path366
+Bitsingen (Bassenge);gem.;Luik;38,17;8.994;Bitsingen, Boirs, Eben-Emael, Glaaien, Rukkelingen-aan-de-Jeker, Wonck;path468
+Blegny;gem.;Luik;26,07;13.212;Mortier, Trembleur, Barchon, Housse, Saive, Saint-Remy;path487
+Borgworm (Waremme);stad;Luik;31,04;14.906;Borgworm, Bettenhoven, Bleret, Bovenistier, Grand-Axhe, Lantremange, Liek;path462
+Bouillon;stad;Luxemburg;149,09;5.408;Bouillon, Les Hayons, Poupehan, Rochehaut, Noirefontaine, Sensenruth, Ucimont, Vivy, Bellevaux, Dohan, Corbion;path569
+Boussu;gem.;Henegouwen;20,01;19.748;Boussu, Hornu;path379
+Braives;gem.;Luik;44;6.238;Braives, Avennes, Ciplet, Fallais, Fumal, Ville-en-Hesbaye, Latinne, Tourinne;path478
+Brugelette;gem.;Henegouwen;28,4;3.619;Brugelette, Cambron-Casteau, Attre, Mévergnies-lez-Lens, Gages;path343
+Büllingen (Bullange);gem.;Luik;150,49;5.484;Büllingen, Manderfeld, Rocherath;path541
+Brunehaut;gem.;Henegouwen;46,11;8.068;Bléharies, Guignies, Hollain, Jollain-Merlin, Wez-Velvain, Lesdain, Laplaigne, Rongy, Howardries;path358
+Burdinne;gem.;Luik;32,57;3.263;Burdinne, Hannêche, Lamontzée, Marneffe, Oteppe;path492
+Burg-Reuland;gem.;Luik;108,96;3.964;Reuland, Thommen;path538
+Bütgenbach;gem.;Luik;97,31;5.605;Bütgenbach, Elsenborn;path535
+Celles;gem.;Henegouwen;67,14;5.611;Celles, Escanaffles, Molenbaix, Popuelles, Pottes, Velaines;path198
+Cerfontaine;gem.;Namen;83,45;4.853;Cerfontaine, Daussois, Senzeille, Silenrieux, Soumoy, Villers-Deux-Églises;path452
+Chapelle-lez-Herlaimont;gem.;Henegouwen;18,1;14.810;Chapelle-lez-Herlaimont, Godarville, Piéton;path349
+Charleroi;stad;Henegouwen;102,08;202.182;Charleroi, Marcinelle, Couillet, Dampremy, Goutroux, Marchienne-au-Pont, Monceau-sur-Sambre, Mont-sur-Marchienne, Jumet, Gosselies, Lodelinsart, Ransart, Roux, Gilly, Montignies-sur-Sambre;path353
+Chastre;gem.;Waals-Brabant;31,27;7.518;Chastre-Villeroux-Blanmont, Cortil-Noirmont, Gentinnes, Saint-Géry;path419
+Châtelet;stad;Henegouwen;27,03;36.463;Châtelet, Bouffioulx, Châtelineau;path354
+Chaudfontaine;gem.;Luik;25,52;20.766;Chaudfontaine, Vaux-sous-Chèvremont, Beaufays, Embourg;path503
+Chaumont-Gistoux;gem.;Waals-Brabant;48,09;11.698;Chaumont-Gistoux, Bonlez, Corroy-le-Grand, Dion-le-Mont, Dion-le-Val, Longueville;path410
+Chièvres;stad;Henegouwen;46,91;6.946;Chièvres, Grosage, Huissignies, Ladeuze, Tongre-Saint-Martin, Tongre-Notre-Dame;path362
+Chimay;stad;Henegouwen;197,1;9.850;Chimay, Bailièvre, Robechies, Saint-Remy, Salles, Villers-la-Tour, Virelles, Vaulx, Lompret, Baileux, Bourlers, Forges, L'Escaillère, Rièzes;path391
+Chiny;stad;Luxemburg;113,69;5.233;Chiny, Izel, Jamoigne, Les Bulles, Suxy, Termes;path572
+Ciney;stad;Namen;147,56;16.323;Ciney, Achêne, Braibant, Chevetogne, Conneux, Leignon, Pessoux, Serinchamps, Sovet;path438
+Clavier;gem.;Luik;79,12;4.545;Clavier, Bois-et-Borsu, Les Avins, Ocquier, Pailhe, Terwagne;path518
+Colfontaine;gem.;Henegouwen;13,62;20.605;Pâturages, Warquignies, Wasmes;path381
+Comblain-au-Pont;gem.;Luik;22,68;5.360;Comblain-au-Pont, Poulseur;path529
+Courcelles;gem.;Henegouwen;48,04;31.217;Courcelles, Gouy-lez-Piéton, Souvret, Trazegnies;path350
+Court-Saint-Étienne;gem.;Waals-Brabant;26,64;10.395;Court-Saint-Etienne;path417
+Couvin;stad;Namen;206,93;13.946;Couvin, Aublain, Boussu-en-Fagne, Brûly, Brûly-de-Pesche, Cul-des-Sarts, Dailly, Frasnes-lez-Couvin, Gonrieux, Mariembourg, Pesche, Petigny, Petite-Chapelle, Presgaux;path456
+Crisnée;gem.;Luik;16,83;3.254;Crisnée, Fize-le-Marsal, Kemexhe, Odeur, Thys;path464
+Dalhem;gem.;Luik;36,06;7.280;Dalhem, Saint-André, Berneau, Bolbeek, Feneur, Mortroux, Neufchâteau, Weerst;path471
+Daverdisse;gem.;Luxemburg;56,4;1.457;Daverdisse, Gembes, Haut-Fays, Porcheresse;path561
+Dinant;stad;Namen;99,8;13.494;Dinant, Anseremme, Bouvignes-sur-Meuse, Dréhance, Falmagne, Falmignoul, Furfooz, Lisogne, Thynes, Sorinnes, Foy-Notre-Dame;path445
+Dison;gem.;Luik;14,01;15.124;Dison, Andrimont;path508
+Doische;gem.;Namen;84,02;2.958;Doische, Gimnée, Gochenée, Matagne-la-Grande, Matagne-la-Petite, Niverlée, Romerée, Soulme, Vaucelles, Vodelée;path454
+Donceel;gem.;Luik;23,31;3.032;Donceel, Haneffe, Jeneffe, Limont;path480
+Doornik (Tournai);stad;Henegouwen;213,75;69.471;Doornik, Ere, Saint-Maur, Orcq, Esplechin, Froyennes, Froidmont, Willemeau, Ramegnies-Chin, Templeuve, Chercq, Blandain, Hertain, Lamain, Marquain, Gaurain-Ramecroix, Havinnes, Beclers, Thimougies, Barry, Maulde, Vaulx, Vezon, Kain, Melles, Quartes, Rumillies, Mont-Saint-Aubert, Mourcourt, Warchin;path340
+Dour;gem.;Henegouwen;33,32;16.733;Dour, Blaugies, Élouges, Wihéries;path378
+Durbuy;stad;Luxemburg;156,61;11.478;Durbuy, Barvaux, Grandhan, Septon, Wéris, Bende, Bomal, Borlon, Heyd, Izier, Tohogne, Villers-Sainte-Gertrude;path542
+Écaussinnes;gem.;Henegouwen;34,77;10.922;Écaussinnes-d'Enghien, Marche-lez-Écaussinnes, Écaussinnes-Lalaing;path335
+Edingen (Enghien);stad;Henegouwen;40,59;13.489;Edingen, Lettelingen, Mark;path308
+Eigenbrakel (Braine-l'Alleud);gem.;Waals-Brabant;52,12;39.785;Eigenbrakel, Ophain-Bois-Seigneur-Isaac, Lillois-Witterzée;path396
+Éghezée;gem.;Namen;102,81;15.951;Éghezée, Aische-en-Refail, Bolinne, Boneffe, Branchon, Dhuy, Hanret, Leuze, Liernu, Longchamps, Mehaigne, Noville-sur-Mehaigne, Saint-Germain, Taviers, Upigny, Waret-la-Chaussée;path423
+Elzele (Ellezelles);gem.;Henegouwen;44,69;5.922;Elzele, Lahamaide, Wodecq;path280
+Engis;gem.;Luik;27,74;6.018;Engis, Clermont-sous-Huy, Hermalle-sous-Huy;path513
+Érezée;gem.;Luxemburg;78,44;3.232;Erezée, Amonines, Mormont, Soy;path543
+Erquelinnes;gem.;Henegouwen;44,23;9.920;Erquelinnes, Bersillies-l'Abbaye, Grand-Reng, Hantes-Wihéries, Montignies-Saint-Christophe, Solre-sur-Sambre;path385
+Esneux;gem.;Luik;34,05;13.037;Esneux, Tilff;path524
+Estaimpuis;gem.;Henegouwen;31,75;10.255;Estaimpuis, Bailleul, Estaimbourg, Évregnies, Leers-Nord, Néchin, Saint-Léger;path169
+Estinnes;gem.;Henegouwen;72,73;7.679;Croix-lez-Rouveroy, Estinnes-au-Mont, Estinnes-au-Val, Fauroeulx, Haulchin, Peissant, Rouveroy, Vellereille-les-Brayeux, Vellereille-le-Sec;path384
+Étalle;gem.;Luxemburg;78,1;5.746;Étalle, Sainte-Marie, Villers-sur-Semois, Vance, Chantemelle, Buzenol;path577
+Eupen;stad;Luik;103,74;19.338;Eupen, Kettenis;path476
+Faimes;gem.;Luik;28,48;3.911;Aineffe, Borlez, Celles, Les Waleffes, Viemme;path479
+Farciennes;gem.;Henegouwen;10,39;11.338;Farciennes, Pironchamps;path355
+Fauvillers;gem.;Luxemburg;74,11;2.237;Fauvillers, Hollange, Tintange;path560
+Fernelmont;gem.;Namen;65,61;7.792;Bierwart, Cortil-Wodon, Forville, Franc-Waret, Hemptinne, Hingeon, Marchovelette, Noville-les-Bois, Pontillas, Tillier;path427
+Ferrières;gem.;Luik;56,9;4.847;Ferrières, My, Vieuxville, Werbomont, Xhoris;path522
+Fexhe-le-Haut-Clocher;gem.;Luik;19,25;3.254;Fexhe-le-Haut-Clocher, Freloux, Noville, Roloux, Voroux-Goreux;path482
+Flémalle;gem.;Luik;36,68;26.058;Awirs, Chokier, Flémalle-Grande, Flémalle-Haute, Gleixhe, Ivoz-Ramet, Mons-lez-Liège;path498
+Fléron;gem.;Luik;13,72;16.507;Fléron, Retinne, Magnée, Romsée;path501
+Fleurus;stad;Henegouwen;59,28;22.802;Fleurus, Heppignies, Lambusart, Wangenies, Saint-Amand, Brye, Wagnelée, Wanfercée-Baulet;path339
+Floreffe;gem.;Namen;38,89;7.957;Floreffe, Floriffoux, Franière, Soye;path430
+Florennes;gem.;Namen;133,55;11.337;Florennes, Corenne, Flavion, Hemptinne, Morville, Rosée, Saint-Aubin, Hanzinelle, Hanzinne, Morialmé, Thy-le-Bauduin;path443
+Florenville;stad;Luxemburg;146,91;5.632;Florenville, Fontenoille, Muno, Sainte-Cécile, Lacuisine, Villers-devant-Orval, Chassepierre;path571
+Fontaine-l'Évêque;stad;Henegouwen;28,41;17.808;Fontaine-l'Evêque, Forchies-la-Marche, Leernes;path369
+Fosses-la-Ville;stad;Namen;63,24;10.412;Fosses-la-Ville, Aisemont, Le Roux, Sart-Eustache, Sart-Saint-Laurent, Vitrival;path429
+Frameries;gem.;Henegouwen;25,95;21.828;Frameries, Eugies, La Bouverie, Noirchain, Sars-la-Bruyère;path382
+Frasnes-lez-Anvaing;gem.;Henegouwen;112,44;11.709;Anvaing, Arc-Ainières, Cordes, Forest, Wattripont, Buissenal, Frasnes-lez-Buissenal, Hacquegnies, Herquegies, Montrœul-au-Bois, Moustier, Œudeghien, Dergneau, Saint-Sauveur;path277
+Froidchapelle;gem.;Henegouwen;86,03;3.908;Froidchapelle, Boussu-lez-Walcourt, Fourbechies, Vergnies, Erpion;path390
+Gedinne;gem.;Namen;151,56;4.563;Gedinne, Bourseigne-Neuve, Bourseigne-Vieille, Houdremont, Louette-Saint-Denis, Louette-Saint-Pierre, Malvoisin, Patignies, Rienne, Sart-Custinne, Vencimont, Willerzie;path449
+Graven (Grez-Doiceau);gem.;Waals-Brabant;55,44;12.607;Graven, Eerken, Biez, Bossut-Gottechain, Nethen;path401
+Geer;gem.;Luik;23,62;3.361;Geer, Boëlhe, Hollogne-sur-Geer, Lens-Saint-Servais, Omal, Darion, Ligney;path460
+Geldenaken (Jodoigne);stad;Waals-Brabant;73,31;13.883;Geldenaken, Dongelberg, Jauchelette, Lathuy, Malen, Opgeldenaken, Petrem, Sint-Jans-Geest, Sint-Remigius-Geest, Zittert-Lummen;path403
+Gembloers (Gembloux);gem.;Namen;95,86;25.528;Gembloers, Beuzet, Ernage, Grand-Manil, Lonzée, Sauvenière, Grand-Leez, Bossière, Bothey, Corroy-le-Château, Isnes, Mazy;path421
+Genepiën (Genappe);stad;Waals-Brabant;89,57;15.302;Genepiën, Baisy-Thy, Bousval, Loupoigne, Oud-Genepiën, Glabais, Ways, Houtain-le-Val;path407
+Gerpinnes;gem.;Henegouwen;47,1;12.527;Gerpinnes, Acoz, Gougnies, Joncret, Loverval, Villers-Poterie;path373
+Gesves;gem.;Namen;64,92;7.159;Gesves, Faulx-les-Tombes, Haltinne, Mozet, Sorée;path433
+Gouvy;gem.;Luxemburg;165,11;5.156;Limerlé, Bovigny, Beho, Cherain, Montleban;
+Grâce-Hollogne;gem.;Luik;34,24;22.145;Bierset, Grâce-Berleur, Hollogne-aux-Pierres, Horion-Hozémont, Velroux;path483
+Habay;gem.;Luxemburg;103,64;8.380;Habay-la-Neuve, Hachy, Anlier, Habay-la-Vieille, Houdemont, Rulles;path574
+Hamoir;gem.;Luik;27,8;3.883;Hamoir, Comblain-Fairon, Filot;path521
+Hamois;gem.;Namen;76,42;7.285;Hamois, Natoye, Mohiville, Scy, Achet, Emptinne, Schaltin;path439
+Ham-sur-Heure-Nalinnes;gem.;Henegouwen;45,68;13.579;Cour-sur-Heure, Ham-sur-Heure, Jamioulx, Marbaix-la-Tour, Nalinnes;path372
+Hannuit (Hannut);stad;Luik;86,53;15.998;Hannuit, Abolens, Avernas-le-Bauduin, Avin, Bertrée, Blehen, Cras-Avernas, Crehen, Grand-Hallet, Lens-Saint-Remy, Merdorp, Moxhe, Petit-Hallet, Poucet, Thisnes, Truielingen, Villers-le-Peuplier, Wansin;path459
+Hastière;gem.;Namen;56,46;5.959;Hastière-Lavaux, Hermeton-sur-Meuse, Waulsort, Hastière-par-delà, Blaimont, Heer, Agimont;path455
+Havelange;gem.;Namen;104,73;5.076;Havelange, Barvaux-Condroz, Flostoy, Jeneffe, Porcheresse, Verlée, Méan, Maffe, Miécret;path440
+Hélécine;gem.;Waals-Brabant;16,62;3.387;Linsmeel, Opheylissem, Neerheylissem;path404
+Hensies;gem.;Henegouwen;25,99;6.872;Hensies, Hainin, Montrœul-sur-Haine, Thulin;path375
+Herbeumont;gem.;Luxemburg;58,81;1.658;Herbeumont, Saint-Médard, Straimont;path570
+Héron;gem.;Luik;38,32;5.178;Héron, Lavoir, Waret-l'Évêque, Couthuin;path493
+Herstal;gem.;Luik;23,54;39.617;Herstal, Milmort, Vottem, Liers;path486
+Herve;stad;Luik;56,84;17.533;Herve, Chaineux, Grand-Rechain, Julémont, Battice, Xhendelesse, Bolland, Charneux;path488
+Honnelles;gem.;Henegouwen;43,65;5.189;Angre, Angreau, Athis, Autreppe, Erquennes, Fayt-le-Franc, Marchipont, Montignies-sur-Roc, Onnezies, Roisin;path377
+Hotton;gem.;Luxemburg;57,32;5.468;Hotton, Fronville, Hampteau, Marenne;path546
+Houffalize;stad;Luxemburg;166,58;5.177;Houffalize, Nadrin, Mont, Tailles, Tavigny, Mabompré, Wibrin;path549
+Houyet;gem.;Namen;122,31;4.744;Houyet, Ciergnon, Finnevaux, Hulsonniaux, Mesnil-Église, Mesnil-Saint-Blaise, Celles, Custinne, Hour, Wanlin;path446
+Hoei (Huy);stad;Luik;47,74;21.292;Hoei, Ben-Ahin, Tihange;path511
+Incourt;gem.;Waals-Brabant;38,79;5.347;Incourt, Glimes, Opprebais, Piétrebais, Roux-Miroir;path411
+Itter (Ittre);gem.;Waals-Brabant;34,92;6.784;Itter, Virginal-Samme, Hoog-Itter;path405
+Jalhay;gem.;Luik;107,75;8.566;Jalhay, Sart;path527
+Jemeppe-sur-Sambre;gem.;Namen;46,8;18.978;Jemeppe-sur-Sambre, Balâtre, Ham-sur-Sambre, Mornimont, Moustier, Onoz, Saint-Martin, Spy;path425
+Juprelle;gem.;Luik;35,36;9.223;Juprelle, Lantin, Slins, Voroux-lez-Liers, Paifve, Nudorp, Villers-Saint-Siméon, Fexhe-Slins;path467
+Jurbeke (Jurbise);gem.;Henegouwen;57,86;10.529;Jurbeke, Erbaut, Erbisœul, Herchies, Masnuy-Saint-Jean, Masnuy-Saint-Pierre;path365
+Kasteelbrakel (Braine-le-Château);gem.;Waals-Brabant;22,7;10.287;Kasteelbrakel, Woutersbrakel;path395
+Kelmis (la calamine);gem.;Luik;18,12;10.917;Kelmis, Neu-Moresnet, Hergenrath;path474
+Komen-Waasten (Comines-Warneton);stad;Henegouwen;61,09;18.101;Komen, Houthem, Ploegsteert, Neerwaasten, Waasten;path125
+La Bruyère;gem.;Namen;52,98;9.060;Émines, Rhisnes, Villers-lez-Heest, Warisoulx, Bovesse, Meux, Saint-Denis;path422
+La Louvière;stad;Henegouwen;64,24;80.430;La Louvière, Haine-Saint-Paul, Haine-Saint-Pierre, Saint-Vaast, Trivières, Boussoit, Houdeng-Aimeries, Houdeng-Gœgnies, Maurage, Strépy-Bracquegnies;path347
+La Roche-en-Ardenne;stad;Luxemburg;147,52;4.189;La Roche-en-Ardenne, Beausaint, Samrée, Ortho, Hives, Halleux;path548
+Lasne;gem.;Waals-Brabant;47,22;14.133;Couture-Saint-Germain, Lasne-Chapelle-Saint-Lambert, Maransart, Ohain, Plancenoit;path408
+Léglise;gem.;Luxemburg;172,92;5.180;Léglise, Assenois, Ébly, Mellier, Witry;path567
+Lens;gem.;Henegouwen;49,42;4.384;Lens, Bauffe, Cambron-Saint-Vincent, Lombise, Montignies-lez-Lens;path344
+Le Rœulx;stad;Henegouwen;42,8;8.472;Le Rœulx, Gottignies, Mignault, Thieu, Ville-sur-Haine;path346
+Les Bons Villers;gem.;Henegouwen;42,55;9.367;Frasnes-lez-Gosselies, Rèves, Villers-Perwin, Wayaux, Mellet;path338
+Lessen (Lessines);stad;Henegouwen;72,29;18.610;Lessen, Papegem, Wannebecq, Ogy, Ghoy, Twee-Akren, Lessenbos, Woelingen;path289
+Leuze-en-Hainaut;stad;Henegouwen;73,53;13.699;Leuze-en-Hainaut, Grandmetz, Thieulain, Blicquy, Chapelle-à-Oie, Chapelle-à-Wattines, Pipaix, Tourpes, Willaupuis, Gallaix;path341
+Libin;gem.;Luxemburg;139,72;5.069;Libin, Anloy, Ochamps, Redu, Smuid, Transinne, Villance;path562
+Libramont-Chevigny;gem.;Luxemburg;177,86;11.088;Bras, Freux, Libramont, Moircy, Recogne, Remagne, Sainte-Marie-Chevigny, Saint-Pierre;path563
+Lierneux;gem.;Luik;92,08;3.584;Lierneux, Arbrefontaine, Bra;path536
+Limburg (Limbourg);stad;Luik;24,63;5.976;Limburg, Bilstain, Gulke;path509
+Lijsem (Lincent);gem.;Luik;14,75;3.281;Lijsem, Pellen, Raatshoven;path458
+Lobbes;gem.;Henegouwen;32,08;5.707;Lobbes, Mont-Sainte-Geneviève, Sars-la-Buissière, Bienne-lez-Happart;path387
+Lontzen;gem.;Luik;28,73;5.656;Lontzen, Walhorn;path491
+Luik (Liège);stad;Luik;69,39;196.970;Luik, Glain, Rocourt, Bressoux, Jupille-sur-Meuse, Wandre, Grivegnée, Angleur, Chênée;path485
+Malmedy;stad;Luik;99,96;12.415;Malmedy, Bellevaux-Ligneuville, Bévercé;path533
+Manage;gem.;Henegouwen;19,68;23.053;Manage, Bellecourt, Bois-d'Haine, Fayt-lez-Manage, La Hestre;path348
+Manhay;gem.;Luxemburg;119,81;3.380;Dochamps, Grandmenil, Harre, Malempré, Odeigne, Vaux-Chavanne;path544
+Marche-en-Famenne;stad;Luxemburg;121,4;17.415;Marche-en-Famenne, Aye, Hargimont, Humain, On, Roy, Waha;path550
+Marchin;gem.;Luik;30;5.421;Marchin, Vyle-et-Tharoul;path514
+Martelange;gem.;Luxemburg;29,67;1.767;Martelange;path568
+Meix-devant-Virton;gem.;Luxemburg;54,2;2.791;Meix-devant-Virton, Gérouville, Robelmont, Sommethonne, Villers-la-Loue;path579
+Merbes-le-Château;gem.;Henegouwen;30,24;4.279;Merbes-le-Château, Fontaine-Valmont, Labuissière, Merbes-Sainte-Marie;path386
+Messancy;gem.;Luxemburg;52,43;8.082;Messancy, Hondelange, Wolkrange, Sélange, Habergy;path584
+Mettet;gem.;Namen;116,78;12.898;Mettet, Biesme, Biesmerée, Graux, Oret, Saint-Gérard, Furnaux, Ermeton-sur-Biert, Stave;path435
+Modave;gem.;Luik;40,37;4.163;Modave, Outrelouxhe, Strée, Vierset-Barse;path515
+Moeskroen (Mouscron);stad;Henegouwen;40,08;57.391;Moeskroen, Lowingen, Dottenijs, Herzeeuw;path126
+Momignies;gem.;Henegouwen;85,58;5.339;Momignies, Macon, Monceau-Imbrechies, Macquenoise, Beauwelz, Forge-Philippe, Seloignes;path392
+Mont-de-l'Enclus;gem.;Henegouwen;26,93;3.710;Amougies, Anserœul, Orroir, Rozenaken;path260
+Montigny-le-Tilleul;gem.;Henegouwen;15,1;10.095;Montigny-le-Tilleul, Landelies;path370
+Mont-Saint-Guibert;gem.;Waals-Brabant;18,63;7.364;Mont-Saint-Guibert, Korbeek, Hévillers;path416
+Morlanwelz;gem.;Henegouwen;20,26;19.097;Morlanwelz-Mariemont, Carnières, Mont-Sainte-Aldegonde;path367
+Musson;gem.;Luxemburg;34,81;4.482;Musson, Mussy-la-Ville;path583
+Namen (Namur);stad;Namen;175,69;110.632;Namen, Beez, Belgrade, Saint-Servais, Saint-Marc, Bouge, Champion, Daussoulx, Flawinne, Malonne, Suarlée, Temploux, Vedrin, Boninne, Cognelée, Gelbressée, Marche-les-Dames, Dave, Jambes, Naninne, Wépion, Wierde, Erpent, Lives-sur-Meuse, Loyers;path426
+Nandrin;gem.;Luik;35,9;5.840;Nandrin, Saint-Séverin, Villers-le-Temple, Yernée-Fraineux;path517
+Nassogne;gem.;Luxemburg;111,96;5.407;Nassogne, Harsin, Bande, Grune, Ambly, Forrières, Lesterny, Masbourg;path551
+Neufchâteau;stad;Luxemburg;113,79;7.488;Neufchâteau, Grandvoir, Grapfontaine, Hamipré, Longlier, Tournay;path566
+Neupré;gem.;Luik;31,69;9.975;Éhein, Rotheux-Rimière, Neuville-en-Condroz, Plainevaux;path523
+Nijvel (Nivelles);stad;Waals-Brabant;60,6;28.027;Nijvel, Monstreux, Baulers, Thines, Bornival;path406
+Oerle (Oreye);gem.;Luik;19,64;3.853;Oerle, Bergilers, Grandville, Lens-sur-Geer, Wouteringen;path463
+Ohey;gem.;Namen;56,62;5.016;Ohey, Évelette, Haillot, Perwez, Goesnes, Jallet;path434
+Olne;gem.;Luik;15,99;3.954;Olne;path505
+Onhaye;gem.;Namen;65,53;3.164;Onhaye, Anthée, Serville, Falaën, Sommière, Weillen, Gerin;path444
+Opzullik (Silly);gem.;Henegouwen;67,68;8.353;Opzullik, Fouleng, Gondregnies, Graty, Hellebecq, Hove, Thoricourt, Zullik;path307
+Orp-Jauche;gem.;Waals-Brabant;50,5;8.756;Énines, Folx-les-Caves, Jandrain-Jandrenouille, Geten, Marilles, Noduwez, Orp-le-Grand;path412
+Ottignies-Louvain-la-Neuve;stad;Waals-Brabant;29,43;31.562;Ottignies, Céroux-Mousty, Limelette;path409
+Ouffet;gem.;Luik;40,22;2.803;Ouffet, Ellemelle, Warzée;path519
+Oupeye;gem.;Luik;36,11;24.772;Oupeye, Hermée, Hermalle-sous-Argenteau, Heure-le-Romain, Houtain-Saint-Siméon, Vivegnis, Haccourt;path469
+Paliseul;gem.;Luxemburg;112,96;5.305;Paliseul, Carlsbourg, Offagne, Nollevaux, Maissin, Opont, Framont, Fays-les-Veneurs;path564
+Pecq;gem.;Henegouwen;32,91;5.598;Pecq, Warcoing, Hérinnes, Esquelmes, Obigies;path183
+Pepinster;gem.;Luik;24,79;9.703;Pepinster, Cornesse, Wegnez, Soiron;path506
+Péruwelz;stad;Henegouwen;60,56;17.132;Péruwelz, Roucourt, Bury, Bon-Secours, Baugnies, Braffe, Brasménil, Callenelle, Wasmes-Audemez-Briffœil, Wiers;path360
+Perwijs (Perwez);gem.;Waals-Brabant;50,81;9.173;Perwijs, Malèves-Sainte-Marie-Wastines, Orbais, Thorembais-les-Béguines, Thorembais-Saint-Trond;path414
+Philippeville;stad;Namen;156,71;9.194;Philippeville, Fagnolle, Franchimont, Jamagne, Jamiolle, Merlemont, Neuville, Omezée, Roly, Romedenne, Samart, Sart-en-Fagne, Sautour, Surice, Villers-en-Fagne, Villers-le-Gambon, Vodecée;path453
+Plombières;gem.;Luik;53,17;10.279;Montzen, Moresnet, Gemmenich, Sippenaeken, Homburg;path473
+Pont-à-Celles;gem.;Henegouwen;55,73;17.093;Pont-à-Celles, Buzet, Obaix, Thiméon, Viesville, Liberchies, Luttre;path337
+Profondeville;gem.;Namen;50,34;12.109;Profondeville, Arbre, Bois-de-Villers, Lesve, Lustin, Rivière;path431
+Quaregnon;gem.;Henegouwen;11,08;19.086;Quaregnon, Wasmuel;path380
+Quévy;gem.;Henegouwen;65,16;8.122;Asquillies, Aulnois, Blaregnies, Bougnies, Genly, Gœgnies-Chaussée, Quévy-le-Grand, Quévy-le-Petit, Givry, Havay;path383
+Quiévrain;gem.;Henegouwen;21,22;6.715;Quiévrain, Baisieux, Audregnies;path376
+Raeren;gem.;Luik;74,21;10.552;Raeren, Hauset, Eynatten;path475
+Ramillies;gem.;Waals-Brabant;48,68;6.293;Autre-Église, Bomal, Geest-Gérompont-Petit-Rosière, Grand-Rosière-Hottomont, Huppaye, Mont-Saint-André, Ramillies-Offus;path413
+Rebecq;gem.;Waals-Brabant;39,08;10.939;Bierk, Roosbeek, Quenast;path393
+Remicourt;gem.;Luik;22,58;5.906;Remicourt, Lamine, Momalle, Pousset, Hodeige;path481
+Rendeux;gem.;Luxemburg;68,83;2.576;Rendeux, Beffe, Hodister, Marcourt;path547
+Rixensart;gem.;Waals-Brabant;17,54;22.128;Rixensart, Rosières, Genval;path399
+Rochefort;stad;Namen;165,27;12.540;Rochefort, Ave-et-Auffe, Buissonville, Éprave, Han-sur-Lesse, Jemelle, Lavaux-Sainte-Anne, Lessive, Mont-Gauthier, Villers-sur-Lesse, Wavreille;path447
+Rouvroy;gem.;Luxemburg;27,68;2.094;Rouvroy, Dampicourt, Harnoncourt, Lamorteau, Torgny;path580
+Rumes;gem.;Henegouwen;23,72;5.174;Rumes, La Glanerie, Taintignies;path357
+Sainte-Ode;gem.;Luxemburg;97,87;2.495;Amberloup, Tillet, Lavacherie;path558
+Saint-Georges-sur-Meuse;gem.;Luik;20,9;6.582;Saint-Georges-sur-Meuse;path497
+Saint-Ghislain;stad;Henegouwen;70,18;23.085;Saint-Ghislain, Baudour, Neufmaison, Sirault, Tertre, Hautrage, Villerot;path363
+Saint-Hubert;stad;Luxemburg;111,16;5.553;Saint-Hubert, Arville, Awenne, Hatrival, Mirwart, Vesqueville;path557
+Saint-Léger;gem.;Luxemburg;35,86;3.532;Saint-Léger, Châtillon, Meix-le-Tige;path582
+Saint-Nicolas;gem.;Luik;6,84;24.078;Saint-Nicolas, Montegnée, Tilleur;path484
+Sankt Vith (Saint-Vith);stad;Luik;146,93;9.637;Sankt Vith, Recht, Schönberg, Lommersweiler, Crombach;path539
+Sambreville;gem.;Namen;34,2;27.887;Arsimont, Auvelais, Falisolle, Keumiée, Moignelée, Tamines, Velaine;path424
+Seneffe;gem.;Henegouwen;62,77;11.027;Seneffe, Arquennes, Familleureux, Feluy, Petit-Rœulx-lez-Nivelles;path336
+Seraing;stad;Luik;35,34;64.172;Seraing, Boncelles, Jemeppe-sur-Meuse, Ougrée;path499
+Sivry-Rance;gem.;Henegouwen;72,97;4.848;Grandrieu, Montbliart, Rance, Sautin, Sivry;path389
+Sombreffe;gem.;Namen;35,78;8.388;Sombreffe, Boignée, Ligny, Tongrinne;path420
+Somme-Leuze;gem.;Namen;95,09;5.411;Somme-Leuze, Baillonville, Bonsin, Heure, Hogne, Nettinne, Noiseux, Sinsin, Waillet;path441
+Soumagne;gem.;Luik;27,14;16.662;Soumagne, Ayeneux, Micheroux, Évegnée-Tignée, Cerexhe-Heuseux, Melen;path502
+Spa;gem.;Luik;39,85;10.415;Spa;path528
+Sprimont;gem.;Luik;74,28;14.417;Sprimont, Dolembreux, Gomzé-Andoumont, Rouvreux, Louveigné;path525
+Stavelot;stad;Luik;85,07;7.174;Stavelot, Francorchamps;path532
+Stoumont;gem.;Luik;108,45;3.113;Stoumont, Chevron, La Gleize, Lorcé, Rahier;path531
+Tellin;gem.;Luxemburg;56,64;2.460;Tellin, Bure, Grupont, Resteigne;path556
+Tenneville;gem.;Luxemburg;91,81;2.789;Tenneville, Champlon, Erneuville;path552
+Terhulpen (La Hulpe);gem.;Waals-Brabant;15,6;7.368;Terhulpen;path398
+Theux;gem.;Luik;83,36;12.092;Theux, La Reid, Polleur;path526
+Thimister-Clermont;gem.;Luik;28,69;5.698;Clermont, Thimister;path489
+Thuin;stad;Henegouwen;76,17;14.494;Thuin, Leers-et-Fosteau, Biesme-sous-Thuin, Ragnies, Biercée, Gozée, Donstiennes, Thuillies;path371
+Tinlot;gem.;Luik;37,12;2.656;Abée, Fraiture, Ramelot, Seny, Soheit-Tinlot;path516
+Tintigny;gem.;Luxemburg;81,79;4.255;Tintigny, Bellefontaine, Rossignol, Saint-Vincent;path573
+Trois-Ponts;gem.;Luik;68,9;2.502;Fosse, Wanne, Basse-Bodeux;path537
+Trooz;gem.;Luik;24,2;8.215;Fôret, Fraipont, Nessonvaux;path504
+Tubeke (Tubize);stad;Waals-Brabant;32,66;25.424;Tubeke, Klabbeek, Oostkerk, Sint-Renelde;path394
+Vaux-sur-Sûre;gem.;Luxemburg;135,87;5.502;Hompré, Morhet, Nives, Sibret, Vaux-lez-Rosières, Juseret;path559
+Verlaine;gem.;Luik;24,21;4.122;Verlaine, Chapon-Seraing, Seraing-le-Château;path496
+Verviers;stad;Luik;33,07;55.177;Verviers, Ensival, Lambermont, Petit-Rechain, Stembert, Heusy;path507
+Vielsalm;gem.;Luxemburg;139,76;7.689;Vielsalm, Bihain, Petit-Thier, Grand-Halleux;path545
+Villers-la-Ville;gem.;Waals-Brabant;47,45;10.498;Villers-la-Ville, Marbais, Mellery, Sart-Dames-Avelines, Tilly;path418
+Villers-le-Bouillet;gem.;Luik;32,71;6.510;Villers-le-Bouillet, Fize-Fontaine, Vaux-et-Borset, Vieux-Waleffe, Warnant-Dreye;path495
+Viroinval;gem.;Namen;120,9;5.806;Dourbes, Le Mesnil (België), Mazée, Nismes, Oignies-en-Thiérache, Olloy-sur-Viroin, Treignes, Vierves-sur-Viroin;path457
+Virton;stad;Luxemburg;94,49;11.389;Virton, Bleid, Ethe, Ruette, Latour, Saint-Mard;path581
+Vloesberg (Flobecq);gem.;Henegouwen;23;3.443;Vloesberg;path288
+Vresse-sur-Semois;gem.;Namen;101,04;2.650;Alle, Bagimont, Bohan, Chairière, Laforêt, Membre, Mouzaive, Nafraiture, Orchimont, Pussemange, Sugny, Vresse;path451
+Walcourt;stad;Namen;123,18;18.390;Walcourt, Castillon, Chastrès, Clermont, Fontenelle, Fraire, Pry, Vogenée, Yves-Gomezée, Berzée, Gourdinne, Laneffe, Rognée, Somzée, Tarcienne, Thy-le-Château;path442
+Walhain;gem.;Waals-Brabant;37,94;6.997;Nil-Saint-Vincent-Saint-Martin, Tourinnes-Saint-Lambert, Walhain-Saint-Paul;path415
+Wanze;gem.;Luik;43,95;13.626;Wanze, Antheit, Bas-Oha, Huccorgne, Moha, Vinalmont;path494
+Wasseiges;gem.;Luik;24,45;2.844;Wasseiges, Acosse, Ambresin, Meeffe;path477
+Waterloo;gem.;Waals-Brabant;21,03;29.794;Waterloo;path397
+Waver (Wavre);stad;Waals-Brabant;41,8;33.806;Waver, Limal, Bierges;path400
+Weismes (Waimes);gem.;Luik;96,93;7.461;Weismes, Faymonville, Robertville;path534
+Welkenraedt;gem.;Luik;24,47;9.809;Welkenraedt, Hendrik-Kapelle;path490
+Wellin;gem.;Luxemburg;67,52;3.027;Wellin, Sohier, Chanly, Halma, Lomprez;path555
+Wezet (Visé);stad;Luik;27,99;17.748;Wezet, Ternaaien, Lieze, Richelle, Argenteau, Cheratte;path470
+Yvoir;gem.;Namen;56,84;9.126;Yvoir, Dorinne, Durnal, Évrehailles, Godinne, Houx, Mont, Purnode, Spontin;path437
+Zinnik (Soignies);stad;Henegouwen;110,3;27.257;Zinnik, Horrues, Casteau, Thieusies, Naast, Chaussée-Notre-Dame-Louvignies, Neufvilles;path345
