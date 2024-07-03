@@ -7,7 +7,7 @@ The submitions are not sensitive to accents or capital letters, but are sensitiv
 Submitions are valid in Dutch and French for the cities in wallonia and brussels. Cities in Flanders are only valid in Dutch.
 After submitting, there is an unfortunate 1 second delay due to having to save the map as a png before being able to show it.
 
-![alt text]("C:\Users\majem\Desktop\PC\Python\Cities-of-Belgium\example.png")
+![alt text](https://github.com/DonCioccolato/Cities-of-Belgium/blob/main/example.png?raw=true)
 
 ### Mandatory files for the app to work:
 "Belgische_gemeenten.csv": database of belgian muncipalities
