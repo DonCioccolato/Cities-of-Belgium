@@ -1,4 +1,7 @@
 ### Usage:
+First, install the dependecies by typing "pip install -r requirements.txt" in terminal.  
+It might also be needed to install the latest version of python3 to use tkinter.
+   
 By running main.py (terminal command "python main.py"), the application starts.  
 Entering a valid muncipality in the typing field (by either pressing enter or pressing the "Toevoegen" button)   
 will add this city to the right province and add to your progress on the map. 
